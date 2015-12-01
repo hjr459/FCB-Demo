@@ -1,0 +1,29 @@
+SauceOnDemandSessionID=a7d42c54d6794463b6acd64f7015c66f job-name=verifySignInRegisterPage[5] : (OSX 10.9 safari 7)
+verifyTextPresent failed
+verifyTextPresent failed
+SauceOnDemandSessionID=a7d42c54d6794463b6acd64f7015c66f job-name=com.yourcompany.SampleSauceTest.verifySignInRegisterPage[5]
+SauceOnDemandSessionID=547abd91385e4fbe8d45b2049f243769 job-name=verifySignInRegisterPage[4] : (OSX 10.8 safari 6)
+verifyTextPresent failed
+verifyTextPresent failed
+SauceOnDemandSessionID=547abd91385e4fbe8d45b2049f243769 job-name=com.yourcompany.SampleSauceTest.verifySignInRegisterPage[4]
+SauceOnDemandSessionID=bf2849a145c74a7ca705ac9668453203 job-name=verifySignInRegisterPage[0] : (Windows 7 chrome 41)
+verifyTextPresent failed
+SauceOnDemandSessionID=bf2849a145c74a7ca705ac9668453203 job-name=com.yourcompany.SampleSauceTest.verifySignInRegisterPage[0]
+SauceOnDemandSessionID=d24403785d98433b93922d5fb94aa7e3 job-name=verifySignInRegisterPage[3] : (Windows 8.1 internet explorer 11)
+verifyTextPresent failed
+SauceOnDemandSessionID=d24403785d98433b93922d5fb94aa7e3 job-name=com.yourcompany.SampleSauceTest.verifySignInRegisterPage[3]
+SauceOnDemandSessionID=1ff0f601484e43229e8667f7cb17d05f job-name=verifySignInRegisterPage[7] : (Linux firefox 37)
+verifyTextPresent failed
+SauceOnDemandSessionID=1ff0f601484e43229e8667f7cb17d05f job-name=com.yourcompany.SampleSauceTest.verifySignInRegisterPage[7]
+SauceOnDemandSessionID=818d2c0e251f49a78b9a5ee2bc7ba2f3 job-name=verifySignInRegisterPage[2] : (Windows 8 internet explorer 10)
+verifyTextPresent failed
+verifyTextPresent failed
+SauceOnDemandSessionID=818d2c0e251f49a78b9a5ee2bc7ba2f3 job-name=com.yourcompany.SampleSauceTest.verifySignInRegisterPage[2]
+SauceOnDemandSessionID=442aad0ca8a74117a6fc850fb4a48a4b job-name=verifySignInRegisterPage[1] : (Windows 7 internet explorer 9)
+verifyTextPresent failed
+verifyTextPresent failed
+SauceOnDemandSessionID=442aad0ca8a74117a6fc850fb4a48a4b job-name=com.yourcompany.SampleSauceTest.verifySignInRegisterPage[1]
+SauceOnDemandSessionID=6627ac070c7f49cc81871df082ade4cc job-name=verifySignInRegisterPage[6] : (OSX 10.10 safari 8)
+verifyTextPresent failed
+verifyTextPresent failed
+SauceOnDemandSessionID=6627ac070c7f49cc81871df082ade4cc job-name=com.yourcompany.SampleSauceTest.verifySignInRegisterPage[6]
