@@ -120,7 +120,7 @@ public class SampleSauceTest implements SauceOnDemandSessionIdProvider {
         LinkedList browsers = new LinkedList();
 
         // windows 7, Chrome 41
-        browsers.add(new String[]{"Windows 7", "41", "chrome", null, null});
+        //browsers.add(new String[]{"Windows 7", "41", "chrome", null, null});
 
         // windows xp, IE 8
         //browsers.add(new String[]{"Windows XP", "8", "internet explorer", null, null});
